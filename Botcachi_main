@@ -5,4 +5,4 @@ print("Hello " + name + ", welcome to the stream!")
 
 if name == "Smiling":
     print("I am not a therapist!\n" * 100)
-else: print("I am a fallen angel not a demon.\n" * 25)
+else: print("I am a fallen angel not a demon.\n" * 50)
